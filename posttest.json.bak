@@ -1,0 +1,48 @@
+[
+    {
+        "question": "Which of the following is a limitation of the trapezoidal rule for double integration?",
+        "qid": 1,
+        "option_a": "It is computationally expensive",
+        "option_b": "It cannot handle discontinuous functions",
+        "option_c": "It requires complex computational algorithms",
+        "option_d": "It can only handle rectangular regions",
+        "correct_option": "d"
+    },
+    {
+        "question": "The trapezoidal rule for double integration is based on the principle of:",
+        "qid": 2,
+        "option_a": "Lagrange multipliers",
+        "option_b": "Polynomial interpolation",
+        "option_c": "Monte Carlo simulations",
+        "option_d": "Riemann sums",
+        "correct_option": "d"
+    },
+    {
+        "question": "What is the advantage of the trapezoidal rule in double integration?",
+        "qid": 3,
+        "option_a": "Easy implementation",
+        "option_b": "Fast computation",
+        "option_c": "High accuracy",
+        "option_d": "All of the above",
+        "correct_option": "d"
+    },
+    {
+        "question": "For a double integral using the Trapezoidal rule, what happens to the accuracy if the number of divisions (n and m) is increased?",
+        "qid": 4,
+        "option_a": "Accuracy decreases",
+        "option_b": "Accuracy increases",
+        "option_c": "Accuracy remains constant",
+        "option_d": "Accuracy becomes unpredictable",
+        "correct_option": "b"
+    },
+    {
+        "question": "Which of the following methods is a direct competitor to the Trapezoidal rule in terms of accuracy and computational complexity?",
+        "qid": 5,
+        "option_a": "Euler's method",
+        "option_b": "Monte Carlo integration",
+        "option_c": "Simpson's rule",
+        "option_d": "Runge-Kutta methods",
+        "correct_option": "c"
+    }
+
+]
