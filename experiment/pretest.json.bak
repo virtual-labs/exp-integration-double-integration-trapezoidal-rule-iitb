@@ -1,0 +1,29 @@
+[
+    {
+        "question": "For quadratic polynomial 5 datasets are available with unequal interval. To get the integration, which method can be used?",
+        "qid": 1,
+        "option_a": "Simpson's 1/3 Rule",
+        "option_b": "Trapezoidal Rule",
+        "option_c": "Simpson's 3/8 Rule",
+        "option_d": "",
+        "correct_option": "b"
+    },
+    {
+        "question": "For quadratic polynomial 5 datasets are available with unequal interval. To get the integration with highest accuracy, one can use",
+        "qid": 2,
+        "option_a": "Trapezoidal Rule",
+        "option_b": "Simpson's 3/8 Rule",
+        "option_c": "Simpson's 1/3 Rule",
+        "option_d": "",
+        "correct_option": "c"
+    },
+    {
+        "question": "For 4<sup>th</sup> order polynomial, to get the highest accuracy of integration, one can use",
+        "qid": 3,
+        "option_a": "Simpson's 3/8 Rule",
+        "option_b": "Trapezoidal Rule",
+        "option_c": "Simpson's 1/3 Rule",
+        "option_d": "",
+        "correct_option": "a"
+    }
+]
