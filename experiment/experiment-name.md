@@ -1,1 +1,1 @@
-## Experiment name
+## Integration: Double Integration Trapezoidal Rule
